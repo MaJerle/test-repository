@@ -7,5 +7,5 @@ main {
     printf("User name 2: ");
     printf("User\r\n");
     printf("User name 3: ");
-    printf("User\r\n");
+    printf("User C\r\n");
 }
